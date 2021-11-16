@@ -12,6 +12,7 @@ pubnative.net, 1007170, RESELLER, d641df8625486a7b
 Verve.com, 15290, RESELLER, 0c8f5958fc2d6270
 indexexchange.com, 191086, RESELLER
 
+#Unity
 unity.com, 2147213, DIRECT, 96cabb5fbdde37a7
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
@@ -49,6 +50,22 @@ rhythmone.com, 3630748062, RESELLER, a670c89d4a324e47
 video.unrulymedia.com, 3630748062, RESELLER, a670c89d4a324e47
 telaria.com, rwd19-2147213, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-2147213, RESELLER, 1a4e959a1b50034a
+pokkt.com, 7606, RESELLER, c45702d9311e25fd
+pubmatic.com, 160846, RESELLER, 5d62403b186f2ace
+openx.com, 540838151, RESELLER, 6a698e2ec38604c6
+openx.com, 541031350, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 14334, RESELLER, 0bfd66d529a55807
+reforge.in, 353, RESELLER
+appnexus.com, 10617, RESELLER
+appnexus.com, 9393, RESELLER
+lemmatechnologies.com, 362, RESELLER, 7829010c5bebd1fb
+appads.in, 107606, RESELLER
+indexexchange.com, 194730, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 186684, RESELLER, 50b1c356f2c5c8fc
+contextweb.com, 562499, RESELLER, 89ff185a4c4e857c
+inmobi.com, 61d733c3779d43e590c51c8bc078e10c, RESELLER, 83e75a7ae333ca9d
+exchange.admazing.co, AM3, RESELLER
+meitu.com, 282, RESELLER
 
 #tayjoy
 tapjoy.com, c0f5babd58114d80bc666eb791032019, DIRECT, 29e595b1aeb5904d
