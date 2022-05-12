@@ -79,6 +79,7 @@ admixplay.com, 2012, RESELLER
 yandex.com, 40427798, RESELLER
 yandex.com, 97539269, RESELLER
 indexexchange.com, 186081, RESELLER, 50b1c356f2c5c8fc
+google.com, pub-7451455775887115, RESELLER
 
 #tayjoy
 tapjoy.com, c0f5babd58114d80bc666eb791032019, DIRECT, 29e595b1aeb5904d
