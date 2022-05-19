@@ -571,6 +571,8 @@ mars.media,107876,RESELLER,8624339f102fb076
 
 
 #mintegral
+indexexchange.com, 192829, RESELLER, 50b1c356f2c5c8fc
+video.unrulymedia.com, 3948367200, RESELLER
 mintegral.com, 20649, DIRECT, 0aeed750c80d6423
 pokkt.com, 7139, RESELLER, c45702d9311e25fd
 appads.in, 107139, RESELLER
