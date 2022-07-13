@@ -850,6 +850,35 @@ rubiconproject.com, 13856, RESELLER, 0bfd66d529a55807
 smartadserver.com, 1692, RESELLER
 indexexchange.com, 198417, RESELLER, 50b1c356f2c5c8fc
 
+#mintegral add on 2022/07/13
+video.unrulymedia.com, 3383599585, RESELLER
+inmobi.com, d708160556074572b05ed3cf112bb66f, RESELLER, 83e75a7ae333ca9d
+inmobi.com, 6cc71dd159864641a03ce0c8792d801f, RESELLER, 83e75a7ae333ca9d
+rubiconproject.com, 24362, RESELLER, 0bfd66d529a55807
+admanmedia.com, 990, RESELLER
+pubmatic.com, 161136, RESELLER, 5d62403b186f2ace
+opera.com, pub5865193350528, RESELLER, 55a0c5fd61378de3
+meitu.com, 699, RESELLER
+outbrain.com, 0005bfbc60db1570e63954937b4bec06de, RESELLER
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a
+spotxchange.com, 225721, RESELLER
+Freewheel.tv, 741650, RESELLER
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807
+lkqd.net, 450, RESELLER, 59c49fa9598a0117
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+indexexchange.com, 190856, RESELLER, 50b1c356f2c5c8fc
+pubmatic.com, 158615, RESELLER, 5d62403b186f2ace
+vidazoo.com, 1773068026, RESELLER, b6ada874b4d7d0b2
+indexexchange.com, 193091, RESELLER, 50b1c356f2c5c8fc
+pubmatic.com, 160065, RESELLER, 5d62403b186f2ace
+improvedigital.com, 1863, RESELLER
+freewheel.tv, 1220655, RESELLER
+yahoo.com, 59052, RESELLER
+risecodes.com, 6022acddc8b2f90001767980, RESELLER
+
 #chartboost
 chartboost.com, 61400c988d802a079f7588f7, DIRECT
 appnexus.com, 10005, RESELLER, f5ab79cb980f11d1
