@@ -80,6 +80,33 @@ yandex.com, 40427798, RESELLER
 yandex.com, 97539269, RESELLER
 indexexchange.com, 186081, RESELLER, 50b1c356f2c5c8fc
 google.com, pub-7451455775887115, RESELLER
+#add for unity 2022/07/28
+Pubmatic.com, 161344, RESELLER, 5d62403b186f2ace
+Pubnative.net, 1007063, RESELLER,  d641df8625486a7b
+Pubnative.net, 1003601, RESELLER,  d641df8625486a7b
+rhythmone.com, 170071695, RESELLER, a670c89d4a324e47
+thebrave.io, 9840732, RESELLER,  c25b2154543746ac
+thebrave.io, 1234594, RESELLER,  c25b2154543746ac
+video.unrulymedia.com, 170071695, RESELLER, a670c89d4a324e47
+videoheroes.tv, 212499, RESELLER, 064bc410192443d8
+webeyemob.com, 70104, RESELLER
+indexexchange.com, 194974, RESELLER, 50b1c356f2c5c8fc
+appnexus.com, 7353, RESELLER, f5ab79cb980f11d1
+appnexus.com, 2764, RESELLER, f5ab79cb980f11d1
+appnexus.com, 10617, RESELLER, f5ab79cb980f11d1
+appnexus.com, 9393, RESELLER, f5ab79cb980f11d1
+appnexus.com, 13293, RESELLER, f5ab79cb980f11d1
+appnexus.com, 13297, RESELLER, f5ab79cb980f11d1
+Se7en.es, 212499, RESELLER, 064bc410192443d8
+algorix.co, 54616, RESELLER, 5b394c12fea27a1d
+algorix.co, 60016, RESELLER, 5b394c12fea27a1d
+pubmatic.com, 160974, RESELLER, 5d62403b186f2ace
+xandr.com, 7353, RESELLER, f5ab79cb980f11d1
+xandr.com, 13167, RESELLER, f5ab79cb980f11d1
+xandr.com, 13297, RESELLER, f5ab79cb980f11d1
+adelement.com, 30167, RESELLER
+advlion.com, 5140, RESELLER
+adview.com, 48045325, RESELLER,  1b2cc038a11ea319
 
 #tayjoy
 tapjoy.com, c0f5babd58114d80bc666eb791032019, DIRECT, 29e595b1aeb5904d
